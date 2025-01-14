@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+
 public class ApplicationContextTest {
     private static ApplicationContext applicationContext;
 
